@@ -1,2 +1,2 @@
-# PiAnywhere_Install
-Install scripts for the PiAnywhere HAT.
+# IOTBit_Install
+Install scripts for the IOTBit HAT.
