@@ -11,7 +11,7 @@ rpi-source
 #Install gobi-serial dependancies
 apt-get install dkms -y
 #git clone https://github.com/casastorta/gobiserial
-sudo mv /home/pi/PiAnywhere_Install/GobiSerial /usr/src/GobiSerial-2011-07-29-1026
+sudo mv /home/pi/IOTBit_Install/GobiSerial /usr/src/GobiSerial-2011-07-29-1026
 cd /usr/src/GobiSerial-2011-07-29-1026
 
 #Install GobiSerial
